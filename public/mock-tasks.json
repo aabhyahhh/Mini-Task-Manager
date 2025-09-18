@@ -1,0 +1,203 @@
+[
+  {
+    "id": "1",
+    "title": "Complete project documentation",
+    "description": "Write comprehensive documentation for the new feature including API endpoints, usage examples, and troubleshooting guide.",
+    "status": "IN_PROGRESS",
+    "createdAt": "2024-01-15T09:00:00Z",
+    "updatedAt": "2024-01-16T14:30:00Z"
+  },
+  {
+    "id": "2",
+    "title": "Review code changes",
+    "description": "Review all pending pull requests and provide feedback to team members.",
+    "status": "PENDING",
+    "createdAt": "2024-01-16T10:15:00Z",
+    "updatedAt": "2024-01-16T10:15:00Z"
+  },
+  {
+    "id": "3",
+    "title": "Update dependencies",
+    "description": "Update all project dependencies to their latest stable versions and test for compatibility issues.",
+    "status": "COMPLETED",
+    "createdAt": "2024-01-14T16:45:00Z",
+    "updatedAt": "2024-01-15T11:20:00Z"
+  },
+  {
+    "id": "4",
+    "title": "Design user interface mockups",
+    "description": "Create wireframes and mockups for the new dashboard interface.",
+    "status": "PENDING",
+    "createdAt": "2024-01-17T08:30:00Z",
+    "updatedAt": "2024-01-17T08:30:00Z"
+  },
+  {
+    "id": "5",
+    "title": "Implement authentication system",
+    "description": "Build secure user authentication with JWT tokens and password hashing.",
+    "status": "IN_PROGRESS",
+    "createdAt": "2024-01-13T14:00:00Z",
+    "updatedAt": "2024-01-16T16:45:00Z"
+  },
+  {
+    "id": "6",
+    "title": "Write unit tests",
+    "description": "Add comprehensive unit tests for all new components and utility functions.",
+    "status": "PENDING",
+    "createdAt": "2024-01-18T09:15:00Z",
+    "updatedAt": "2024-01-18T09:15:00Z"
+  },
+  {
+    "id": "7",
+    "title": "Optimize database queries",
+    "description": "Analyze and optimize slow database queries to improve application performance.",
+    "status": "COMPLETED",
+    "createdAt": "2024-01-12T11:30:00Z",
+    "updatedAt": "2024-01-14T15:20:00Z"
+  },
+  {
+    "id": "8",
+    "title": "Setup CI/CD pipeline",
+    "description": "Configure automated testing and deployment pipeline for the project.",
+    "status": "IN_PROGRESS",
+    "createdAt": "2024-01-15T13:45:00Z",
+    "updatedAt": "2024-01-17T10:30:00Z"
+  },
+  {
+    "id": "9",
+    "title": "Create API documentation",
+    "description": "Generate API documentation using Swagger/OpenAPI specifications.",
+    "status": "PENDING",
+    "createdAt": "2024-01-19T07:00:00Z",
+    "updatedAt": "2024-01-19T07:00:00Z"
+  },
+  {
+    "id": "10",
+    "title": "Implement error handling",
+    "description": "Add comprehensive error handling and logging throughout the application.",
+    "status": "COMPLETED",
+    "createdAt": "2024-01-11T16:20:00Z",
+    "updatedAt": "2024-01-13T12:15:00Z"
+  },
+  {
+    "id": "11",
+    "title": "Design database schema",
+    "description": "Create and optimize database schema for the new features.",
+    "status": "IN_PROGRESS",
+    "createdAt": "2024-01-16T12:00:00Z",
+    "updatedAt": "2024-01-18T14:45:00Z"
+  },
+  {
+    "id": "12",
+    "title": "Setup monitoring and alerts",
+    "description": "Configure application monitoring and set up alerts for critical issues.",
+    "status": "PENDING",
+    "createdAt": "2024-01-20T10:30:00Z",
+    "updatedAt": "2024-01-20T10:30:00Z"
+  },
+  {
+    "id": "13",
+    "title": "Refactor legacy code",
+    "description": "Clean up and refactor old code to improve maintainability and performance.",
+    "status": "COMPLETED",
+    "createdAt": "2024-01-10T09:45:00Z",
+    "updatedAt": "2024-01-12T17:30:00Z"
+  },
+  {
+    "id": "14",
+    "title": "Implement caching strategy",
+    "description": "Add Redis caching to improve response times for frequently accessed data.",
+    "status": "IN_PROGRESS",
+    "createdAt": "2024-01-17T15:15:00Z",
+    "updatedAt": "2024-01-19T11:20:00Z"
+  },
+  {
+    "id": "15",
+    "title": "Create backup strategy",
+    "description": "Implement automated database backup and recovery procedures.",
+    "status": "PENDING",
+    "createdAt": "2024-01-21T08:00:00Z",
+    "updatedAt": "2024-01-21T08:00:00Z"
+  },
+  {
+    "id": "16",
+    "title": "Performance testing",
+    "description": "Conduct load testing to ensure the application can handle expected traffic.",
+    "status": "COMPLETED",
+    "createdAt": "2024-01-09T14:30:00Z",
+    "updatedAt": "2024-01-11T16:45:00Z"
+  },
+  {
+    "id": "17",
+    "title": "Security audit",
+    "description": "Perform comprehensive security audit and fix any vulnerabilities.",
+    "status": "IN_PROGRESS",
+    "createdAt": "2024-01-18T11:45:00Z",
+    "updatedAt": "2024-01-20T13:15:00Z"
+  },
+  {
+    "id": "18",
+    "title": "User acceptance testing",
+    "description": "Coordinate with stakeholders to conduct user acceptance testing.",
+    "status": "PENDING",
+    "createdAt": "2024-01-22T09:30:00Z",
+    "updatedAt": "2024-01-22T09:30:00Z"
+  },
+  {
+    "id": "19",
+    "title": "Deploy to staging",
+    "description": "Deploy the latest version to staging environment for testing.",
+    "status": "COMPLETED",
+    "createdAt": "2024-01-08T16:00:00Z",
+    "updatedAt": "2024-01-10T12:30:00Z"
+  },
+  {
+    "id": "20",
+    "title": "Configure load balancer",
+    "description": "Setup and configure load balancer for high availability.",
+    "status": "IN_PROGRESS",
+    "createdAt": "2024-01-19T13:20:00Z",
+    "updatedAt": "2024-01-21T15:40:00Z"
+  },
+  {
+    "id": "21",
+    "title": "Implement rate limiting",
+    "description": "Add rate limiting to prevent abuse and ensure fair usage.",
+    "status": "PENDING",
+    "createdAt": "2024-01-23T07:15:00Z",
+    "updatedAt": "2024-01-23T07:15:00Z"
+  },
+  {
+    "id": "22",
+    "title": "Create user guides",
+    "description": "Write user documentation and create video tutorials for the new features.",
+    "status": "COMPLETED",
+    "createdAt": "2024-01-07T10:45:00Z",
+    "updatedAt": "2024-01-09T14:20:00Z"
+  },
+  {
+    "id": "23",
+    "title": "Setup analytics tracking",
+    "description": "Implement analytics tracking to monitor user behavior and application usage.",
+    "status": "IN_PROGRESS",
+    "createdAt": "2024-01-20T12:30:00Z",
+    "updatedAt": "2024-01-22T10:15:00Z"
+  },
+  {
+    "id": "24",
+    "title": "Implement data validation",
+    "description": "Add comprehensive data validation on both client and server sides.",
+    "status": "PENDING",
+    "createdAt": "2024-01-24T08:45:00Z",
+    "updatedAt": "2024-01-24T08:45:00Z"
+  },
+  {
+    "id": "25",
+    "title": "Prepare production deployment",
+    "description": "Final preparations for production deployment including environment configuration and monitoring setup.",
+    "status": "COMPLETED",
+    "createdAt": "2024-01-06T15:30:00Z",
+    "updatedAt": "2024-01-08T11:45:00Z"
+  }
+]
+
